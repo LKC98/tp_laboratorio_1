@@ -118,8 +118,8 @@ int main(void) {
 					system("pause>nul");
 				break;
 	    		case 'c':
-	    			printf("\nAerolineas: %.2f", precioAereoBit);
-	    			printf("\nLatam: %.2f", precioLatBit);
+	    			printf("\nAerolineas: %.7f", precioAereoBit);
+	    			printf("\nLatam: %.7f", precioLatBit);
 	    			system("pause>nul");
 	    		break;
 	    		case 'd':
